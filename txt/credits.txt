@@ -1,7 +1,7 @@
 0
 Glowny projektant i programista:
 8
-Sammal
+Sammael
 0
 Grafika:
 4
@@ -12,3 +12,5 @@ Menda
 Wysluchiwanie glupot o projekcie:
 9
 Lunar
+6
+Veird0
